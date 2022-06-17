@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{0327384D-93FD-4E46-BE3D-0F11B16E32BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{A2202F0B-7FD1-4355-996E-DFFD6BF9AC70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{A2202F0B-7FD1-4355-996E-DFFD6BF9AC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_5", "HomeWork_5\HomeWork_5.csproj", "{9171A09F-6061-46A5-8651-6C90386C4024}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A2202F0B-7FD1-4355-996E-DFFD6BF9AC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2202F0B-7FD1-4355-996E-DFFD6BF9AC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2202F0B-7FD1-4355-996E-DFFD6BF9AC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9171A09F-6061-46A5-8651-6C90386C4024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9171A09F-6061-46A5-8651-6C90386C4024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9171A09F-6061-46A5-8651-6C90386C4024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9171A09F-6061-46A5-8651-6C90386C4024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
